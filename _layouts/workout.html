@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+           <div class="carousel-item">
+               <div class="row align-items-center">
+                   <div class="col-md py-2">
+                      {{ content }}
+                   </div>
+                   <div class="col-md py-2">
+                       <img class="d-block img-fluid" src="..." alt="First slide">
+                   </div>
+               </div>
+           </div>
+    </div>
+</div>
