@@ -11,7 +11,7 @@ url: "https://www.runliftcode.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
-include: [".htaccess", "_assets"]
+include: [".htaccess", "_assets", "favicon.ico "]
 
 sass:
     load_paths:
