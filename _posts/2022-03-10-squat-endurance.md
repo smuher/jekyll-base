@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tempo Squat Row"
+title: Tempo Squat Rows
 date: 2022-03-10 12:00:00
 categories: squat edurance
 ---
