@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OH / Lunge Endurance
-date: 2022-03-13T21:36:00.059Z
+date: 2022-03-16
 categories: lunge endurance
 ---
 2-3 miles
