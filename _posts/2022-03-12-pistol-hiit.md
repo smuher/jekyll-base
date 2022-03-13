@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Tabatta Pistol"
-date: 2022-03-12 12:00:00
+title: Tabatta Pistol
+date: 2022-03-12T14:00:00.000Z
 categories: pistol hiit
 ---
 
