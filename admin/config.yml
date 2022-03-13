@@ -1,18 +1,22 @@
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  name: github
+  repo: smuher/jekyll-base
+  branch: master
 media_folder: 'assets/uploads'
-site_url: http://127.0.0.1:4000/
+site_url: https://www.runliftcode.com/
 collections:
   - name: 'blog'
     label: 'Blog'
     folder: '_posts/'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    preview_path_date_field: "date"
+    summary: "{{date}} - {{title}}"
+    slug: '{{date}}-{{categories}}'
     editor:
       preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Date', name: 'date', format: "YYYY-MM-DD", date_format: "MM-DD-YYYY", time_format: "", picker_utc: true, widget: 'datetime' }
+      - { label: 'Categories', name: 'categories', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
