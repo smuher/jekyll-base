@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: smuher/jekyll-base
+  repo: git-gateway
   branch: master
 media_folder: 'assets/uploads'
 site_url: https://www.runliftcode.com/
