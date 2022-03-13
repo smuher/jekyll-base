@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Power Clean Practice
-date: 2022-03-17T17:00:34.393Z
+date: 2022-03-17T13:00:34.393Z
 categories: hang strength
 ---
 TRS Hang Prep
