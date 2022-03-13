@@ -7,6 +7,33 @@
     <title>Content Manager</title>
     <!-- Include the identity widget -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <style>
+        @media only screen and (max-width: 800px) {
+            header[class*="AppHeader"] {
+                height: auto !important;
+            }
+            header div[class*="AppHeaderContent"] {
+                min-width: auto;
+                display: flex;
+                flex-flow: wrap;
+                justify-content: center;
+            }
+            div[class*="CollectionContainer"] {
+                display: flex;
+                flex-direction: column-reverse;
+            }
+            div[class*="AppMainContainer"] {
+                min-width: auto !important;
+            }
+            aside[class*="SidebarContainer"] {
+                position: initial !important;
+                width: 100%;
+            }
+            main {
+                padding: 0 !important;
+            }
+        }
+    </style>
   </head>
   <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
