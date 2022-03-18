@@ -8,7 +8,7 @@ categories: lunge endurance
 
 OR
 
-3 Rounds (SP 3/18)
+2-3 Rounds (SP 3/18)
 * 3x (Right)
    * 8 (R) Single Arm Devil Press
    * 8 (R Arm) Single Dumbbell Overhead Lunge
