@@ -3,6 +3,7 @@ layout: post
 title: Squat HIIT
 date: 2022-03-18
 categories: squat hiit
+notes: "*"
 ---
 TRS Upper Body Spin Up
 
