@@ -3,6 +3,9 @@ layout: post
 title: Press Tabata
 date: 2022-03-21
 categories: press hitt
+notes: |-
+  * Only did 2 rounds of tabata
+  * 2 mile run outside
 ---
 Shoulder Strength (pg 62 - 10 min)
 
