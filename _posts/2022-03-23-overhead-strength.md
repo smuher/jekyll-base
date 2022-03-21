@@ -4,11 +4,12 @@ title: Atlas
 date: 2022-03-23
 categories: overhead strength
 ---
-TRS uppper body spin up
-TRS OH banded distraction
-TRS OH primer
+Warm Up
+* TRS uppper body spin up
+* TRS OH banded distraction
+* TRS OH primer
 
-3x5 BB push press or strict press
+3x5 BB push press or strict press (r3:00)
 
 
 
