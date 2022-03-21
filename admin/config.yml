@@ -19,3 +19,4 @@ collections:
       - { label: 'Date', name: 'date', format: "YYYY-MM-DD", date_format: "MM-DD-YYYY", time_format: "", picker_utc: true, widget: 'datetime' }
       - { label: 'Categories', name: 'categories', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Notes', name: 'notes', widget: 'markdown' }

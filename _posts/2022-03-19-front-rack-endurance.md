@@ -3,6 +3,10 @@ layout: post
 title: Front Rack Endurance
 date: 2022-03-19
 categories: front-rack endurance
+notes: |-
+  6 rounds + 250 row
+
+  20# for pull across
 ---
 Warm-Up for Healthy Shoulders (pg 94 - 9 min)
 
