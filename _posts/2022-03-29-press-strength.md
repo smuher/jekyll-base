@@ -3,7 +3,7 @@ layout: post
 title: Ring Dip Strength
 date: 2022-03-29
 categories: press strength
-notes: "  "
+notes: Did core during strength rest intervals
 ---
 Shoulder Strength (pg 62)
 
