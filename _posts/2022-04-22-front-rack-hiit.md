@@ -5,10 +5,11 @@ date: 2022-04-22
 categories: front-rack hiit
 notes: " "
 ---
-3x Tabata @ 20/10x8, r4:00 [T20:00]
-1a. Hang clean
-1b. High/Low plank transitions
-2a. Push ups
-2b. Pull up holds
-3a. SA bent over row (R)
-3b. SA bent over row (L)
+3x Tabata @ 20/10x8, r4:00 \[T20:00]
+
+1. a) Hang clean
+   b) High/Low plank transition
+2. a) Push ups
+   b Pull up holds
+3. a) SA bent over row (R)
+   b) SA bent over row (L)
